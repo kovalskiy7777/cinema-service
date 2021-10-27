@@ -79,7 +79,7 @@ Viktor Yukhno - pingvinomania@gmail.com
 
 Project Link: [https://github.com/kovalskiy7777/cinema-service.git](https://github.com/kovalskiy7777/cinema-service.git)
 
-Heroku Link: [http://cinema-pingwins.herokuapp.com/register](http://cinema-pingwins.herokuapp.com/register) 
+Heroku Link: [http://cinema-pingwins.herokuapp.com/login](http://cinema-pingwins.herokuapp.com/login) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
